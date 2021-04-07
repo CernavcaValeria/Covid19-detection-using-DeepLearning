@@ -1,1 +1,2 @@
 # Covid19-detection-using-DeepLearning
+ImplementaNeuralNetworkusingtrans-ferlearningtechniqueandCNNpre-trainedmodels:VGG16/19,InceptionV3,Xcep-tion,Densnet.PerformingaseriesofexperimentsonCNN,usingadatasetofover3000units.Performanceanalysisofthetrainedmod-elsandtheiruseintheX-Rayimageclas-sification,inordertodetecttheCovid19
